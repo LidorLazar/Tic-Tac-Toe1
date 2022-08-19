@@ -1,0 +1,21 @@
+body{
+    background-color: #a7bcb9;
+}
+
+.borad{
+    text-align: center;
+}
+.borad .card{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.bth{
+    border-radius: 30px;
+}
